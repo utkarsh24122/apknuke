@@ -3,7 +3,7 @@ Find vulnerabilities in Android Applications : Static Analysis
 
 Template Based Static Analysis of Android Applications 
 
-Find secrets, keys & many more. Check [Features](https://github.com/utkarsh24122/apknuke#features)
+Find secrets, keys & many more. Check [Features](https://github.com/utkarsh24122/apknuke#features) & [Screenshots](https://github.com/utkarsh24122/apknuke#Screenshots)
 
 Templates by [@0xgaurang](https://twitter.com/0xgaurang)
 
@@ -117,3 +117,7 @@ PATH_TO_NucleiTemplates="/[path]/mobile-nuclei-templates/"
  
  Android Debug Enabled 
  
+
+# Screenshots
+![image](https://user-images.githubusercontent.com/54320208/122881762-21599080-d359-11eb-94f9-bd1e4ec57669.png)
+![image](https://user-images.githubusercontent.com/54320208/122882004-5fef4b00-d359-11eb-9e79-f57f10d5239c.png)

@@ -1,5 +1,5 @@
-# apknuke
-Find vulnerabilities in Android Applications : Static Analysis
+# 📱apknuke
+Find vulnerabilities in Android Applications : Static Analysis 🎯
 
 Template Based Static Analysis of Android Applications 
 
@@ -7,7 +7,7 @@ Find secrets, keys & many more. Check [Features](https://github.com/utkarsh24122
 
 Templates by [@0xgaurang](https://twitter.com/0xgaurang)
 
-# Setup
+# ⚙ Setup
 ```
 $ git clone https://github.com/utkarsh24122/apknuke
 $ cd apknuke;chmod +x *;cd..
@@ -25,11 +25,11 @@ Configure path of templates in the 1st line of apknuke.sh :
 PATH_TO_NucleiTemplates="/[path]/mobile-nuclei-templates/"
 ```
 
-# Usage 
+# 💻 Usage 
 ```
 ./apknuke.sh target.apk
 ```
-# Features
+# Features ✨
 
 - Checks for :
 
@@ -118,6 +118,6 @@ PATH_TO_NucleiTemplates="/[path]/mobile-nuclei-templates/"
  Android Debug Enabled 
  
 
-# Screenshots
+# 📷 Screenshots
 ![image](https://user-images.githubusercontent.com/54320208/122881762-21599080-d359-11eb-94f9-bd1e4ec57669.png)
 ![image](https://user-images.githubusercontent.com/54320208/122882004-5fef4b00-d359-11eb-9e79-f57f10d5239c.png)

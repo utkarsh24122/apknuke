@@ -73,7 +73,7 @@ PATH_TO_NucleiTemplates="/[path]/mobile-nuclei-templates/"
  
  Slack Webhook 
  
- Google 
+ Google Maps API keys
  
  Amazon MWS Auth Token 
  

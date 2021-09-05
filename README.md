@@ -7,6 +7,8 @@ Find secrets, keys & many more. Check [Features](https://github.com/utkarsh24122
 
 Templates by [@0xgaurang](https://twitter.com/0xgaurang)
 
+Read about one of many vulnerabilities that I found using this tool in my [writeup](https://utkarsh24122.gitbook.io/findings/finding-security-vulnerabilities-in-android-applications)!
+
 # ⚙ Setup
 ```
 $ git clone https://github.com/utkarsh24122/apknuke

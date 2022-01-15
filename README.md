@@ -12,7 +12,8 @@ Read about one of many vulnerabilities that I found using this tool in my [write
 # ⚙ Setup
 ```
 $ git clone https://github.com/utkarsh24122/apknuke
-$ cd apknuke;chmod +x *;cd ..
+$ cd apknuke
+$ chmod +x apknuke.sh
 ```
 install apktool ([Read How](https://ibotpeaches.github.io/Apktool/install/))
 
